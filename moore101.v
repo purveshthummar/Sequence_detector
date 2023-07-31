@@ -69,5 +69,5 @@ module moore101(
 			cst <= nst;
 	end
 	
-		//assign y=(cst==s3)
+	//assign y=(cst==s3)  output is depend on current state only in moore 
 endmodule
