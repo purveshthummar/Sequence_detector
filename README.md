@@ -1,2 +1,4 @@
 # Sequence_detector
-Sequence detector in verilog with two FSM Moore and Mealy state machine.
+in this we detect 101 Sequence using Moore and Mealy state machine in verilog code.
+# Moore state machine
+
