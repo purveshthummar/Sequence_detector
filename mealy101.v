@@ -71,5 +71,5 @@ module mealy101(
 			cst <= nst;
 	end
 		
-
+	//assign y=(cst==s2)&x
 endmodule
